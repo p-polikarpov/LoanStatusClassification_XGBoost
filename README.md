@@ -6,4 +6,4 @@
 
 3. XGBoost K-fold cross-validation
 
-4. 95% prediction accuracy
+4. 95% test prediction accuracy
