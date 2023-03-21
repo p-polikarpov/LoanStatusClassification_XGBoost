@@ -1,8 +1,9 @@
 ### Loan Status Classification_XGBoost
 
-Классификация
+1. EDA, Outlier detection and Preprocessing
 
-EDA, Outlier detection and Preprocessing
-Train Test Split
-XGBoost K-fold cross-validation
-95% prediction accuracy
+2. Train Test Split
+
+3. XGBoost K-fold cross-validation
+
+4. 95% prediction accuracy
