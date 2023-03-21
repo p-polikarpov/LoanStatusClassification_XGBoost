@@ -1,9 +1,9 @@
 ### Loan Status Classification_XGBoost
 
-1. EDA, Outlier detection and Preprocessing
+Scientific Research project aimed at predicting loan status based on the data of individual borrowers. The project uses a public dataset that has been downloaded from Kaggle using Kaggle API. 95% accuracy (ROC_AUC) on test data has been achieved by using XGBoost model with K-fold cross-validation. The attached .ipynb solution file follows the plan below:
 
-2. Train Test Split
+1. EDA, outlier detection and preprocessing
 
-3. XGBoost K-fold cross-validation
+2. XGBoost application and hyperparameters' tuning
 
-4. 95% test prediction accuracy
+3. Feature importance and test data inspection
